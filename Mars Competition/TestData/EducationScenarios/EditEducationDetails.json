@@ -1,0 +1,19 @@
+{
+  "EducationRecords": [
+    {
+      "University": "University",
+      "Country": "Australia",
+      "Title": "B.Tech",
+      "Degree": "B.Tech",
+      "GraduationYear": "2020"
+    },
+    {
+      "University": "university c",
+      "Country": "Australia",
+      "Title": "B.Tech",
+      "Degree": "b.tech",
+      "GraduationYear": "2020"
+
+    }
+  ]
+}
